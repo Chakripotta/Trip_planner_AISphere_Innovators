@@ -1,0 +1,20 @@
+# Git
+.git
+.gitignore
+
+# Python
+_pycache_/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+pip-selfcheck.json
+*-info
+
+# IDE
+.idea/
+
+# Virtual environment
+.venv/
+venv/
